@@ -1,0 +1,36 @@
+*{
+    /* margin: 0%; */
+    border: 0cqb;
+}
+marquee{
+    background-color: beige;
+}
+#z-1{
+    padding: 0% !important;
+}
+.carousel-control-next{
+    align-items: right;
+    justify-content: end;
+    width: 2%;
+}
+.p-5 {
+    padding: 0rem !important;
+    width: 100%;
+}
+#z3{
+    margin: 10%;
+    padding: 10%;
+    margin-left: 70%;
+    margin-top:20%;
+
+}
+#sub-cards{
+    margin-top: 5%;
+}
+
+footer{
+    text-align: center;
+    padding: 3%;
+    background-color: black;
+    color: beige;
+}
